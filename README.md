@@ -24,7 +24,9 @@ The lab currently contains following ESC (Escalation) vectors:
 **User Cred**
 |User|Password|
 |---|---|
-|john@snailsec.local|Test@12345!| <- john is part of cert_enrollees group ;)
+|john@snailsec.local|Test@12345!|
+
+**John is part of cert_enrollees group ;)**
 
 
 ## Steps to install
