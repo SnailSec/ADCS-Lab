@@ -32,7 +32,7 @@ The lab currently contains following ESC (Escalation) vectors:
 ## Steps to install
 * Download the zip containing VM's from releases
 * Extract the zip
-* Edit vmnet2 in the network settings of VMware Workstation. Goto Edit -> Virtual Network Editor
+* Edit VMnet2 in the network settings of VMware Workstation. Goto Edit -> Virtual Network Editor
   ![Edit](https://github.com/SnailSec/ADCS-Lab/assets/168891917/245a98db-bfe5-4636-8720-66c1e567010a)
 * Select VMnet2 and click on "Change Settings". Ensure that the Subnet IP is : 10.10.10.0
   ![Change VMnet2 Subnet](https://github.com/SnailSec/ADCS-Lab/assets/168891917/18b83100-d984-40de-8281-0ab468269075)
