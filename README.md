@@ -14,6 +14,7 @@ The lab currently contains following ESC (Escalation) vectors:
 |---|---|
 |DC-01|10.10.10.100|
 |DC-02|10.10.10.101|
+|Kali|Dynamic-IP|
 
 ## Steps to install
 * Download the zip containing VM's [here](https://google.com)
