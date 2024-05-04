@@ -16,6 +16,17 @@ The lab currently contains following ESC (Escalation) vectors:
 |DC-02|10.10.10.101|
 |Kali|Dynamic-IP|
 
+**Domain**
+|Domain|
+|---|
+|snailsec.local|
+
+**User Cred**
+|User|Password|
+|---|---|
+|john@snailsec.local|Test@12345!| <- john is part of cert_enrollees group ;)
+
+
 ## Steps to install
 * Download the zip containing VM's from releases
 * Extract the zip
