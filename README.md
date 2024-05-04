@@ -17,7 +17,7 @@ The lab currently contains following ESC (Escalation) vectors:
 |Kali|Dynamic-IP|
 
 ## Steps to install
-* Download the zip containing VM's [here](https://google.com)
+* Download the zip containing VM's from releases
 * Extract the zip
 * Edit vmnet2 in the network settings of VMware Workstation. Goto Edit -> Virtual Network Editor
   ![Edit](https://github.com/SnailSec/ADCS-Lab/assets/168891917/245a98db-bfe5-4636-8720-66c1e567010a)
