@@ -17,7 +17,8 @@ The lab currently contains following ESC (Escalation) vectors:
 * Select VMnet2 and click on "Change Settings". Ensure that the Subnet IP is : 10.10.10.0
   ![Change VMnet2 Subnet](https://github.com/SnailSec/ADCS-Lab/assets/168891917/18b83100-d984-40de-8281-0ab468269075)
 * Open the "SnailSec ADCS" Folder which has been extracted from the zip
-* Import each machine by going into the machine's folder and double clicking on the .vmx file.
+* Import each machine by going into the machine's folder and double clicking on the .vmx file
   ![Import VM](https://github.com/SnailSec/ADCS-Lab/assets/168891917/25b0a000-aa0a-4e45-abd9-fae92e16cbfe)
 * After importing each VM. Select the vm and goto "Edit virtual machine settings" -> Add -> Network Adapter -> Custom -> VMnet2 (Host-Only)
   ![Add Custom Network Adapter](https://github.com/SnailSec/ADCS-Lab/assets/168891917/50ac5b3b-4300-406e-9c82-59d18a361106)
+* Start all 3 VM's and enjoy!
